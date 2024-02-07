@@ -1,4 +1,4 @@
-module github.com/sophie-rigg/web-scrapper
+module github.com/sophie-rigg/web-scraper
 
 go 1.21
 

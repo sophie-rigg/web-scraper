@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/sophie-rigg/web-scrapper/cache"
-	"github.com/sophie-rigg/web-scrapper/mocks"
+	"github.com/sophie-rigg/web-scraper/cache"
+	"github.com/sophie-rigg/web-scraper/mocks"
 	"golang.org/x/net/html"
 )
 

@@ -5,10 +5,10 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/sophie-rigg/web-scrapper/logging"
-	"github.com/sophie-rigg/web-scrapper/processor/node"
-	"github.com/sophie-rigg/web-scrapper/reader/http"
-	"github.com/sophie-rigg/web-scrapper/worker"
+	"github.com/sophie-rigg/web-scraper/logging"
+	"github.com/sophie-rigg/web-scraper/processor/node"
+	"github.com/sophie-rigg/web-scraper/reader/http"
+	"github.com/sophie-rigg/web-scraper/worker"
 )
 
 var (

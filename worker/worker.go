@@ -4,10 +4,10 @@ import (
 	"sync"
 
 	"github.com/sirupsen/logrus"
-	"github.com/sophie-rigg/web-scrapper/cache"
-	"github.com/sophie-rigg/web-scrapper/processor"
-	"github.com/sophie-rigg/web-scrapper/reader"
-	"github.com/sophie-rigg/web-scrapper/utils"
+	"github.com/sophie-rigg/web-scraper/cache"
+	"github.com/sophie-rigg/web-scraper/processor"
+	"github.com/sophie-rigg/web-scraper/reader"
+	"github.com/sophie-rigg/web-scraper/utils"
 	"golang.org/x/exp/maps"
 )
 
